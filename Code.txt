@@ -3,6 +3,7 @@ Imagine this is some code
 Line 1
 Line 2
 Line 3
+<<<<<<< HEAD
 Line 4bbb
 Line 5
 Line 6
@@ -11,3 +12,5 @@ Line 8
 Line 9
 Line10
 Line11
+=======
+>>>>>>> Holy hell knows whats about to happen!
