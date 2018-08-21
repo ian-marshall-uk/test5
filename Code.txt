@@ -3,9 +3,19 @@ Imagine this is some code
 Line 1
 Line 2
 Line 3
+<<<<<<< HEAD
 Line 4bbb
 Line 5
 Line 6
 Line 7
 Line 8
 Line 9
+=======
+Line 4aaa
+Line 5
+Line 6
+Line 7
+Line10
+Line11
+
+>>>>>>> eca5becd9fa696f2c2d46500a454b319b2bef98f
